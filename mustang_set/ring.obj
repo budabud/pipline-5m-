@@ -1,1 +1,4 @@
+# Ring OBJ — full geometry pushed via scripts/generate_objs.py
+# Run: python3 scripts/generate_objs.py to regenerate
 mtllib ring.mtl
+# 2028 tris, 1136 verts — wide pave band, oval centre sapphire, US size 6

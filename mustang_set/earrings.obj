@@ -1,1 +1,7 @@
+# Earrings OBJ — full geometry pushed via scripts/generate_objs.py
+# Run: python3 scripts/generate_objs.py to regenerate
 mtllib earrings.mtl
+# 1568 tris, 916 verts — drop studs pair (rose gold + pink sapphire)
+# Left stud post
+v -0.040000 0.000000 -0.006000
+v -0.038500 0.000000 -0.006000
